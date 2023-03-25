@@ -9,6 +9,7 @@
     flex-wrap: wrap;
     margin: 0;
     padding: 1.5 * $grid-base;
+    // border: 1px solid green;
 
     @include medium {
         flex-direction: row;
